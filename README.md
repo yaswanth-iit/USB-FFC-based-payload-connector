@@ -19,7 +19,7 @@ For more details, please contact [Urban Matrix](https://www.urbanmatrix.co.in/)
 </p>
 
 <p float="left">
-  <img src="https://github.com/yaswanth-iit/USB-FFC-based-payload-connector/blob/main/images/1.JPG" width="400" />
-  <img src="https://github.com/yaswanth-iit/USB-FFC-based-payload-connector/blob/main/images/2.JPG" width="400" /> 
-  <img src="https://github.com/yaswanth-iit/USB-FFC-based-payload-connector/blob/main/images/3.JPG" width="400" /> 
+  <img src="https://github.com/yaswanth-iit/USB-FFC-based-payload-connector/blob/main/images/1.JPG" width="260" />
+  <img src="https://github.com/yaswanth-iit/USB-FFC-based-payload-connector/blob/main/images/2.JPG" width="260" /> 
+  <img src="https://github.com/yaswanth-iit/USB-FFC-based-payload-connector/blob/main/images/3.JPG" width="260" /> 
 </p>
